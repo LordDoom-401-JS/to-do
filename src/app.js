@@ -2,6 +2,7 @@ import React from 'react';
 import { Navbar } from 'react-bootstrap';
 
 import ToDo from './components/todo/todo.js';
+import './app.scss';
 
 // this is like module.export--
 

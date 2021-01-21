@@ -13,6 +13,9 @@ npx create-react-app .
 ## Tips:
 npx create-react-app . is good for initializing the react app from a personalized repo already created and pulled from github. It generates its own readme like whats below and renames whatever isnt necessary.
 
+## Tests:
+Don't know yet.
+
 -
 
 ## Getting Started with Create React App

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Button, Card, Form } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 
 // The commented out sections are the class before the conversion
 // class TodoForm extends React.Component {
@@ -15,7 +16,7 @@ const TodoForm = (props) => {
   const _changeInput = (e) => {
     setItem({...item, [e.target.name]: e.target.value});
   }
-  
+
   // handleSubmit = (e) => {
   //   e.preventDefault();
   //   e.target.reset();
