@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Project: Todo app
+
+## Author: Andre Olivier Martin
+
+## Links & Resources: 
+
+## Setup:
+
+## Initialize:
+npm start,
+npx create-react-app .
+
+## Tips:
+npx create-react-app . is good for initializing the react app from a personalized repo already created and pulled from github. It generates its own readme like whats below and renames whatever isnt necessary.
+
+-
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
